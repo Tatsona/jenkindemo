@@ -2,6 +2,6 @@
 
 This is a simple demonstration project to showcase conatinerization of Java web application and Mysql database in docker and Kubernetes environment.
 
-Testwebhook and pipeline
+Testwebhook and pipeline in jenkins
 
 
